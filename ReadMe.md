@@ -1,5 +1,55 @@
-# 💫 About Me:
-👋 Sobre Mim<br><br> Sou um estudante de Segurança Cibernética no SENAC EAD, atualmente no primeiro trimestre, apaixonado por tecnologia e inovação. Meu interesse vai além da área técnica, abrangendo questões sociais, inclusão digital e ativismo. Acredito que a tecnologia é uma poderosa ferramenta para transformar o mundo e promover mudanças significativas.<br><br>🌟 Meus Interesses<br><br> Segurança Cibernética: Aprendendo e aplicando práticas para proteger sistemas e dados. Tecnologia da Informação: Explorando como a TI pode otimizar a segurança e a eficiência organizacional. Ativismo Digital: Engajado em projetos que promovem inclusão digital e cidadania no mundo conectado. Educação: Valorizando o aprendizado contínuo como um motor de transformação pessoal e profissional.<br><br>- Conecte-se Comigo -<br>LinkedIn: www.linkedin.com/in/vifernandescybersec<br>Email: vifernandes.tech@gmail.com
+# 🌐 Sobre Mim  
+
+👨‍💻 **Vitor Fernandes da Silva**  
+📍 **Santo André, SP, Brasil**  
+📚 **Estudante de Segurança Cibernética | Senac SP**  
+🎯 **Explorando o mundo da tecnologia para criar impacto positivo!**
+
+Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Inteligência Artificial. Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo, promovendo inclusão digital e segurança no ambiente virtual. Atualmente, busco me especializar em **cibersegurança** e contribuir para a democratização do conhecimento digital.
+
+---
+
+## 🎓 **Formação e Certificações**  
+- **Tecnologia em Segurança Cibernética** - Senac SP (desde 2024)  
+  - Primeiro semestre concluído com nota 10 em todas as disciplinas.  
+- Certificações:  
+  - Fortinet Certified Fundamentals in Cybersecurity  
+  - Introduction to Cybersecurity (Cisco Networking Academy)  
+  - IA Generativa com Microsoft Copilot (Bootcamp DIO)  
+
+---
+
+## 🚀 **Habilidades Técnicas**  
+- **Cybersecurity:** Práticas de segurança para redes, análise de vulnerabilidades e prevenção de ataques.  
+- **Programação:** Experiência com lógica de programação e algoritmos (Visualg).  
+- **IA Generativa:** Aplicações práticas de inteligência artificial em projetos interativos.  
+- **Ferramentas:** Kali Linux, Visualg, Canva, Python, Cisco Packet Tracer.  
+
+---
+
+## 🧩 **Projetos Notáveis**  
+- **Conexão Segura:** Gamificação para ensinar cibersegurança a crianças e idosos.  
+- **Conspiração Digital:** Narrativa interativa de ficção científica com IA.  
+- **Phishing com Kali Linux:** Criação e análise de phishing (Projeto do Santander Bootcamp).  
+- **E-book Atendimento Seguro:** Como IA e cibersegurança podem impulsionar negócios.  
+
+👉 Acesse todos os meus projetos no [GitHub](https://github.com/Vifernandestech).  
+
+---
+
+## 🌟 **Valores e Objetivos**  
+- **Inclusão Digital:** Democratizar o conhecimento para grupos vulneráveis.  
+- **Segurança Online:** Proteger dados e privacidade no ambiente digital.  
+- **Educação Contínua:** Estudo e aprendizado como motores de transformação pessoal e profissional.  
+- **Impacto Positivo:** Uso ético da tecnologia para criar mudanças significativas.  
+
+---
+
+## 🌍 **Conecte-se Comigo**  
+- **LinkedIn:** [Vitor Fernandes - Segurança Cibernética](https://www.linkedin.com/in/vifernandescybersec)  
+- **E-mail:** vifernandes.tech@gmail.com  
+
+---
 
 
 ## 🌐 Socials:
