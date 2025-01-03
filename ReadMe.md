@@ -17,7 +17,7 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
   - Introduction to Cybersecurity (Cisco Networking Academy)
   - Hardware Basics (Cisco Networking Academy)  
   - CAIXA - IA Generativa com Microsoft Copilot (Bootcamp DIO)
-  - Santander Bootcamp Cibersegurança #2
+  - Santander - Bootcamp Cibersegurança #2 (Bootcamp DIO)
   
 ---
 
