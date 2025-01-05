@@ -2,7 +2,8 @@
 
 👨‍💻 **Vitor Fernandes da Silva**  
 📍 **Santo André, SP, Brasil**  
-📚 **Estudante de Segurança Cibernética | Senac SP**  
+👨🏻‍💻​ **Estudante de Segurança Cibernética | Senac São Paulo**
+📚​ **Estudante Técnico em Informática | Senac Santo André**
 🎯 **Explorando o mundo da tecnologia para criar impacto positivo!**
 
 Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Inteligência Artificial. Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo, promovendo inclusão digital e segurança no ambiente virtual. Atualmente, busco me especializar em **cibersegurança** e contribuir para a democratização do conhecimento digital.
