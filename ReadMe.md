@@ -39,12 +39,12 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 
 ## 🧩 **Projetos Notáveis**  
 - **Conexão Segura:** Projeto acadêmico - Gamificação para ensinar cibersegurança a grupos vulneráveis, como crianças e idosos (Senac São Paulo). 
-- **Conspiração Digital:** Projeto: História Interativa - Conspiração Digital: A Ameaça de Nexus! (Projeto do Bootcamp CAIXA - IA Generativa).
-- **E-book Atendimento Seguro:** E-BOOK Gerado por I.A.s - Atendimento Seguro com IA e Cibersegurança (Projeto do Bootcamp CAIXA - IA Generativa).
+- **Conspiração Digital:** Projeto História Interativa - Conspiração Digital: A Ameaça de Nexus! (Projeto do Bootcamp CAIXA - IA Generativa).
+- **E-book Atendimento Seguro:** Projeto E-BOOK Gerado por I.A.s - Atendimento Seguro com IA e Cibersegurança (Projeto do Bootcamp CAIXA - IA Generativa).
 - **Código Humano:** Projeto Podcast Gerado por I.A.s - Código Humano: Decifrando Propósitos na Era Digital (Projeto do Bootcamp CAIXA - IA Generativa).
 - **SmartFinance-AI:** Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e Inteligência Artificial (Projeto do Bootcamp CAIXA - IA Generativa).
-- **Phishing com Kali Linux:** Criação e análise de phishing utilizando (SET) e Kali Linux (Projeto do Santander Bootcamp). 
-- **Criando um Ransomware com Python:** Entendendo e Criando um Ransomware Troll funcional com Python e Kali Linux (Projeto do Santander Bootcamp).
+- **Phishing com Kali Linux:** Criação e análise de phishing utilizando (SET) e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança). 
+- **Criando um Ransomware com Python:** Entendendo e Criando um Ransomware Troll funcional com Python e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança).
 - **Algoritmos:** Curso de Algoritmos - Curso em Vídeo (Repositório documentando meu progresso no curso e exercícios resolvidos). 
 
   
