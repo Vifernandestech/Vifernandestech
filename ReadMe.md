@@ -34,10 +34,16 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 ---
 
 ## 🧩 **Projetos Notáveis**  
-- **Conexão Segura:** Gamificação para ensinar cibersegurança a crianças e idosos.  
-- **Conspiração Digital:** Narrativa interativa de ficção científica com IA.  
-- **Phishing com Kali Linux:** Criação e análise de phishing (Projeto do Santander Bootcamp).  
-- **E-book Atendimento Seguro:** Como IA e cibersegurança podem impulsionar negócios.  
+- **Conexão Segura:** Projeto acadêmico - Gamificação para ensinar cibersegurança a grupos vulneráveis, como crianças e idosos (Senac São Paulo). 
+- **Conspiração Digital:** Projeto: História Interativa - Conspiração Digital: A Ameaça de Nexus! (Projeto do Bootcamp CAIXA - IA Generativa).
+- **E-book Atendimento Seguro:** E-BOOK Gerado por I.A.s - Atendimento Seguro com IA e Cibersegurança (Projeto do Bootcamp CAIXA - IA Generativa).
+- **Código Humano:** Projeto Podcast Gerado por I.A.s - Código Humano: Decifrando Propósitos na Era Digital (Projeto do Bootcamp CAIXA - IA Generativa).
+- **SmartFinance-AI:** Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e Inteligência Artificial (Projeto do Bootcamp CAIXA - IA Generativa).
+- **Phishing com Kali Linux:** Criação e análise de phishing utilizando (SET) e Kali Linux (Projeto do Santander Bootcamp). 
+- **Criando um Ransomware com Python:** Entendendo e Criando um Ransomware Troll funcional com Python e Kali Linux (Projeto do Santander Bootcamp).
+- **Algoritmos:** Curso de Algoritmos - Curso em Vídeo (Repositório documentando meu progresso no curso e exercícios resolvidos). 
+
+  
 
 👉 Acesse todos os meus projetos no [GitHub](https://github.com/Vifernandestech).  
 
@@ -62,10 +68,4 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vifernandescybersec) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vifernandestech&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vifernandestech&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vifernandestech&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
