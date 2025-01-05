@@ -27,7 +27,8 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 ## 🚀 **Habilidades Técnicas**  
 - **Cybersecurity:** Práticas de segurança para redes, análise de vulnerabilidades e prevenção de ataques.  
 - **Programação:** Experiência com lógica de programação e algoritmos (Visualg).  
-- **IA Generativa:** Aplicações práticas de inteligência artificial em projetos interativos e em aumento da produtividade do dia a dia.  
+- **IA Generativa:** Aplicações práticas de inteligência artificial em projetos interativos e em aumento da produtividade do dia a dia.
+- **Ferramentas IA:** Microsoft Copilot, ChatGPT, PerplexityAI, APIGemini, Claude, Hugging Chat, Gamma.app, Google NotebookLM, NapkinAI, FreePik, IdeogramAI, LeonardoAI, HeyGen, ElevenLabs.
 - **Ferramentas:** Kali Linux, Maltego, SHODAN, Visualg, Python, VirtualBox, VMWare, Adobe Premiere, ShotCut.  
 
 ---
