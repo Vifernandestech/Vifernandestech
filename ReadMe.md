@@ -9,15 +9,18 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 
 ---
 
-## 🎓 **Formação e Certificações**  
+## 🎓 **Formação Acadêmica**  
 - **Graduação Tecnologia em Segurança Cibernética** - Senac São Paulo (desde Out/2024)  
-  - Primeiro semestre concluído com nota 10 em todas as disciplinas.  
-- Certificações:  
-  - Fortinet Certified Fundamentals in Cybersecurity  
-  - Introduction to Cybersecurity (Cisco Networking Academy)
+  - Primeiro semestre concluído com nota 10 em todas as disciplinas.
+- **Técnico em Informática** - Senac Santo André (desde Fev/2025)
+    
+- **Cursos e Certificações:**  
   - Hardware Basics (Cisco Networking Academy)  
+  - Introduction to Cybersecurity (Cisco Networking Academy)
+  - Fortinet Certified Fundamentals in Cybersecurity (FCF Fortinet) 
   - CAIXA - IA Generativa com Microsoft Copilot (Bootcamp DIO)
   - Santander - Bootcamp Cibersegurança #2 (Bootcamp DIO)
+  - Algoritmos - Curso de Algoritmo (Curso em Vídeo) 
   
 ---
 
@@ -25,7 +28,7 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 - **Cybersecurity:** Práticas de segurança para redes, análise de vulnerabilidades e prevenção de ataques.  
 - **Programação:** Experiência com lógica de programação e algoritmos (Visualg).  
 - **IA Generativa:** Aplicações práticas de inteligência artificial em projetos interativos e em aumento da produtividade do dia a dia.  
-- **Ferramentas:** Kali Linux, Visualg, Canva, Python, VirtualBox, ShotCut.  
+- **Ferramentas:** Kali Linux, Maltego, SHODAN, Visualg, Python, VirtualBox, VMWare, Adobe Premiere, ShotCut.  
 
 ---
 
