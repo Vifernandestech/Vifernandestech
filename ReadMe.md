@@ -37,15 +37,19 @@ Sou um apaixonado por tecnologia e inovação, com foco em Cibersegurança e Int
 
 ---
 
-## 🧩 **Projetos Notáveis**  
+## 🧩 **Projetos Notáveis** 
+- **Automação de Cadastro de Produtos com Python:** Desenvolvi um script para automatizar o cadastro de produtos em sistemas web, utilizando `pyautogui` e `pandas` para otimizar processos e reduzir erros manuais. 
+- **Análise de Cancelamento de Clientes (Churn) com Python:** Realizei uma análise exploratória de dados de cancelamento, utilizando `pandas` e `plotly` para identificar padrões e causas do churn, propondo soluções baseadas em insights de dados. 
+- **Previsão de Score de Crédito com Machine Learning em Python:** Construí um modelo preditivo de score de crédito utilizando `scikit-learn`, comparando algoritmos como Random Forest e KNN para otimizar a precisão e auxiliar na tomada de decisões.
+- **Criando um Phishing com Kali Linux:** Criação e análise de phishing utilizando (SET) e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança). 
+- **Criando um Ransomware com Python:** Entendendo e Criando um Ransomware funcional com Python e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança).
+- **Algoritmos:** Curso de Algoritmos - Curso em Vídeo (Repositório documentando meu progresso e evolução no curso e exercícios resolvidos). 
 - **Conexão Segura:** Projeto acadêmico - Gamificação para ensinar cibersegurança a grupos vulneráveis, como crianças e idosos (Senac São Paulo). 
 - **Conspiração Digital:** Projeto História Interativa - Conspiração Digital: A Ameaça de Nexus! (Projeto do Bootcamp CAIXA - IA Generativa).
 - **E-book Atendimento Seguro:** Projeto E-BOOK Gerado por I.A.s - Atendimento Seguro com IA e Cibersegurança (Projeto do Bootcamp CAIXA - IA Generativa).
 - **Código Humano:** Projeto Podcast Gerado por I.A.s - Código Humano: Decifrando Propósitos na Era Digital (Projeto do Bootcamp CAIXA - IA Generativa).
 - **SmartFinance-AI:** Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e Inteligência Artificial (Projeto do Bootcamp CAIXA - IA Generativa).
-- **Phishing com Kali Linux:** Criação e análise de phishing utilizando (SET) e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança). 
-- **Criando um Ransomware com Python:** Entendendo e Criando um Ransomware Troll funcional com Python e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança).
-- **Algoritmos:** Curso de Algoritmos - Curso em Vídeo (Repositório documentando meu progresso no curso e exercícios resolvidos). 
+
 
   
 
