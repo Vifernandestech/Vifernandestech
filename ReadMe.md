@@ -3,7 +3,7 @@
 👨‍💻 **Vitor Fernandes da Silva**  
 📍 **Santo André, SP, Brasil**
 
-👨🏻‍💻​ **Estudante de Segurança Cibernética | Senac São Paulo**
+👨🏻‍💻​ **Estudante CST(Curso Superior de Tecnologia) Segurança Cibernética | Senac São Paulo**
 
 📚​ **Estudante Técnico em Informática | Senac Santo André**
 
