@@ -48,7 +48,7 @@ Sou um apaixonado por tecnologia e inovação, com foco em Automação, Ciberseg
 ---
 
 ## 🧩 **Projetos Notáveis** 
-- **Automação Residencial com Assistentes Virtuais:** Instalação de tomadas e interruptores inteligentes com Wi-Fi, permitindo controle remoto e controle/automação via aplicativos.
+- **Automação Residencial com Dispositivos Inteligentes:** Instalação de tomadas e interruptores inteligentes com Wi-Fi, permitindo controle remoto e controle/automação via aplicativos.
 - **Automação de Cadastro de Produtos com Python:** Desenvolvi um script para automatizar o cadastro de produtos em sistemas web, utilizando `pyautogui` e `pandas` para otimizar processos e reduzir erros manuais. 
 - **Análise de Cancelamento de Clientes (Churn) com Python:** Realizei uma análise exploratória de dados de cancelamento, utilizando `pandas` e `plotly` para identificar padrões e causas do churn, propondo soluções baseadas em insights de dados. 
 - **Previsão de Score de Crédito com Machine Learning em Python:** Construí um modelo preditivo de score de crédito utilizando `scikit-learn`, comparando algoritmos como Random Forest e KNN para otimizar a precisão e auxiliar na tomada de decisões.
