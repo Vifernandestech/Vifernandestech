@@ -5,7 +5,7 @@
 
 👨🏻‍💻​ **Estudante CST(Curso Superior de Tecnologia) em Segurança Cibernética | Senac São Paulo**
 
-📚​ **Estudante Curso nível Técnico em Informática | Senac Santo André**
+📚​ **Estudante Curso Técnico em Informática | Senac Santo André**
 
 🎯 **Explorando o mundo da tecnologia para criar impacto positivo!**
 
