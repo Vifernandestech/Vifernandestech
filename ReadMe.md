@@ -31,14 +31,15 @@ Atuar como **estagiário ou júnior em TI, Redes ou Segurança da Informação**
 ## 📜 Cursos e Certificações  
 
 ### 🔹 Cursos e Certificações em Tecnologias
-- **Cisco – Operating Systems Basics (08/2025)**: Conceitos essenciais de sistemas operacionais, interface, gerenciamento de processos e arquivos.  
+- **Cisco – Operating Systems Basics (08/2025)**: Conceitos essenciais de sistemas operacionais, interface, gerenciamento de processos e arquivos.
+- **Senac Lapa Tito – Automação Residencial com Assistente Virtual (05/2025)**: Instalação de dispositivos inteligentes (Alexa, IoT), noções básicas de elétrica e configuração de rede LAN.   
 - **Cisco – Networking Basics (05/2025)**: Fundamentos de redes, topologias, protocolos e configuração básica de dispositivos.  
 - **Cisco – Introduction to Cybersecurity (10/2024)**: Riscos digitais, políticas de segurança e boas práticas.  
 - **Cisco – Introduction to IoT (03/2025)**: Conceitos de IoT, conectividade inteligente e impacto na infraestrutura de redes.  
 - **Cisco – Python Essentials I (03/2025)**: Sintaxe, loops, coleções, funções e automação com Python.  
 - **DIO – Santander Bootcamp Cibersegurança #2 (28h, 01/2025)**: Phishing com Kali Linux, OSINT, defesa ofensiva e engenharia social.  
 - **DIO – Caixa: IA Generativa com Microsoft Copilot (39h, 12/2024)**: Automação, criação de conteúdo e integração com IA.  
-- **Senac Lapa Tito – Automação Residencial com Assistente Virtual (05/2025)**: Instalação de dispositivos inteligentes (Alexa, IoT), noções básicas de elétrica e configuração de rede LAN.  
+
 
 ### 🔹 Cursos e Certificações Gerais
 - **Inglês Intensivo (160h)** – E. E. Amaral Wagner  
