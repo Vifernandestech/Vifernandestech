@@ -96,6 +96,23 @@ Atuar como **estagiário ou júnior em TI, Redes ou Segurança da Informação**
 
 ---
 
+## 💼 Experiência Profissional  
+- **Assistente de TI (Freelancer)** – *Teleu Tech* (Mar/2025 – Atual)  
+  - Montagem/manutenção de PCs, backup, suporte híbrido, recuperação de acessos (Hiren's Boot) e atualização de sistemas.  
+
+- **Vendedor E-commerce Jr** – *Ótica Santo Grau* (Fev/2023 – Set/2023)  
+  - Atendimento, vendas e-commerce e suporte técnico a clientes. Destaque como *“Vendedor Revelação do Ano”*.  
+
+---
+
+## 🌍 Valores e Propósito  
+✔ **Inclusão Digital** – democratizar o acesso ao conhecimento.  
+✔ **Segurança Online** – proteção de dados e privacidade.  
+✔ **Educação Contínua** – aprendizado como motor de evolução.  
+✔ **Impacto Positivo** – tecnologia como agente de transformação.  
+
+---
+
 ## 🌍 Conecte-se Comigo  
 🔗 [LinkedIn – Vitor Fernandes](https://linkedin.com/in/vifernandescybersec)  
 💻 [GitHub – Vifernandestech](https://github.com/Vifernandestech)  
