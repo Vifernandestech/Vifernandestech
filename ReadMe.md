@@ -1,90 +1,101 @@
-# 🌐 Sobre Mim  
+# 👨‍💻 Vitor Fernandes  
 
-👨‍💻 **Vitor Fernandes**  
-📍 **São Paulo, Brasil**
+📍 São Paulo, Brasil  
+🎓 Estudante de **Segurança Cibernética (CST)** – Senac São Paulo (desde 2024)  
+💻 Estudante de **Técnico em Informática** – Senac Santo André (desde 2025)  
+🚀 Em transição para a área de **TI, Redes e Cibersegurança**  
 
-👨🏻‍💻​ **Estudante CST(Curso Superior de Tecnologia) em Segurança Cibernética | Senac São Paulo**
-
-📚​ **Estudante Curso Técnico em Informática | Senac Santo André**
-
-🎯 **Explorando o mundo da tecnologia para criar impacto positivo!**
-
-Sou um apaixonado por tecnologia e inovação, com foco em Automação, Cibersegurança e Inteligência Artificial. Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo, promovendo inclusão digital e segurança no ambiente virtual. Atualmente, busco me especializar em **cibersegurança e automação** e contribuir para a democratização do conhecimento digital.
+Sou um profissional em transição para TI, com mais de 5 anos de experiência em atendimento ao cliente e foco atual em **Suporte Técnico, Infraestrutura de Redes, Automação Residencial e Segurança Cibernética**.  
+Busco sempre aprender e aplicar a tecnologia de forma ética, prática e com impacto positivo no mundo digital.  
 
 ---
 
-## 🎓 **Formação Acadêmica**  
-- **Graduação CST - Curso Superior de Tecnologia em Segurança Cibernética** - Senac São Paulo (desde Out/2024)  
-  - Primeiro semestre concluído com nota 10 em todas as disciplinas.
-- **Curso nível Técnico em Informática** - Senac Santo André (desde Fev/2025)
-    
-- **Cursos e Certificações em Tecnologias:**
-  - Using Computers and Mobile Devices - Cisco Networking Academy 
-  - Hardware Basics - Cisco Networking Academy  
-  - Introduction to Cybersecurity - Cisco Networking Academy
-  - Introduction to IoT (Internet of Things) - Cisco Networking Academy
-  - Python Essentials I - Cisco Networking Academy
-  - Fortinet Certified Fundamentals in Cybersecurity (FCF) - Fortinet 
-  - IA Generativa com Microsoft Copilot - Bootcamp DIO & CAIXA Econômica
-  - Bootcamp Cibersegurança #2 - Bootcamp DIO & Santander Open Academy
-  - Algoritmos - Curso de Algoritmos - Plataforma Curso em Vídeo
-  - Inteligência Artificial (Conceitos e Práticas) - Senac São Paulo
-  - Automação Residencial com Dispositivos Inteligentes - Senac São Paulo 
-
-- **Cursos e Certificações Gerais:**
-  - Inglês Intensivo (160h) - E. E. Amaral Wagner
-  - Work & Job Soft Skills - Instituto SIM
-  - Brigada de Incêndio - ECOFIRE Treinamentos
-       
----
-
-## 🚀 **Habilidades Técnicas**  
-- **Redes e Cibersegurança:** Protocolos de rede e análise de vulnerabilidades.
-- **Programação:** Algoritmos, lógica de programação, foco nas linguagens C#, Javascript e Python.
-- **IA Generativa:** Uso de aplicações de IA generativa e automação de tarefas.
-- **Sistemas Operacionais:** Administração de Linux e Windows (Desktop e Servidores).
-- **Automação Residêncial:** Instalação e configuração de dispositivos inteligentes com conectividade via Wi-Fi.
+## 🎯 Objetivo  
+Atuar como **estagiário ou júnior em TI, Redes ou Segurança da Informação**, aplicando conhecimentos em:  
+- Suporte técnico, montagem e manutenção de PCs;
+- Redes de computadores (LAN, domínios, protocolos e segmentação);
+- Automação residencial (dispositivos IoT e integração com assistentes virtuais);  
+- Segurança cibernética (políticas, análise de vulnerabilidades, criptografia).  
 
 ---
 
-## 🧩 **Projetos Notáveis** 
-- **Automação Residencial com Dispositivos Inteligentes:** Instalação de tomadas e interruptores inteligentes com Wi-Fi, permitindo controle remoto e controle/automação via aplicativos.
-- **Automação de Cadastro de Produtos com Python:** Desenvolvi um script para automatizar o cadastro de produtos em sistemas web, utilizando `pyautogui` e `pandas` para otimizar processos e reduzir erros manuais. 
-- **Análise de Cancelamento de Clientes (Churn) com Python:** Realizei uma análise exploratória de dados de cancelamento, utilizando `pandas` e `plotly` para identificar padrões e causas do churn, propondo soluções baseadas em insights de dados. 
-- **Previsão de Score de Crédito com Machine Learning em Python:** Construí um modelo preditivo de score de crédito utilizando `scikit-learn`, comparando algoritmos como Random Forest e KNN para otimizar a precisão e auxiliar na tomada de decisões.
-- **Criando um Phishing com Kali Linux:** Criação e análise de phishing utilizando (SET) e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança). 
-- **Criando um Ransomware com Python:** Entendendo e Criando um Ransomware funcional com Python e Kali Linux (Projeto do Santander Bootcamp - Cibersegurança).
-- **Algoritmos:** Curso de Algoritmos - Curso em Vídeo (Repositório documentando meu progresso e evolução no curso e exercícios resolvidos). 
-- **Conexão Segura:** Projeto acadêmico - Software educacional utilizando gamificação para ensinar cibersegurança a grupos vulneráveis, como crianças e idosos (Senac São Paulo). 
-- **Conspiração Digital:** Projeto História Interativa - Conspiração Digital: A Ameaça de Nexus! (Projeto do Bootcamp CAIXA - IA Generativa).
-- **E-book Atendimento Seguro:** Projeto E-BOOK Gerado por I.A.s - Atendimento Seguro com IA e Cibersegurança (Projeto do Bootcamp CAIXA - IA Generativa).
-- **Código Humano:** Projeto Podcast Gerado por I.A.s - Código Humano: Decifrando Propósitos na Era Digital (Projeto do Bootcamp CAIXA - IA Generativa).
-- **SmartFinance-AI:** Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e Inteligência Artificial (Projeto do Bootcamp CAIXA - IA Generativa).
+## 🎓 Formação Acadêmica  
+- **Tecnólogo em Segurança Cibernética (CST)** – Senac São Paulo | Início: Out/2024 – Em andamento  
+  - Foco: Infraestrutura de TI, Protocolos de Redes, Sistemas Operacionais, Banco de Dados, Política de Segurança da Informação (PSI), Lógica de Programação, Criptografia, análise de vulnerabilidades e defesa cibernética.
 
-
-  
-
-👉 Acesse todos os meus projetos no [GitHub](https://github.com/Vifernandestech).  
+- **Técnico em Informática** – Senac Santo André | Início: Fev/2025 – Em andamento  
+  - Foco: Hardware, redes LAN, lógica de programação e automação residencial.
 
 ---
 
-## 🌟 **Valores e Objetivos**  
-- **Inclusão Digital:** Democratizar o conhecimento para grupos vulneráveis.  
-- **Segurança Online:** Proteger dados e privacidade no ambiente digital.  
-- **Educação Contínua:** Estudo e aprendizado como motores de transformação pessoal e profissional.  
-- **Impacto Positivo:** Uso ético da tecnologia para criar mudanças significativas.  
+## 📜 Cursos e Certificações  
+
+### 🔹 Cursos e Certificações em Tecnologias
+- **Cisco – Operating Systems Basics (08/2025)**: Conceitos essenciais de sistemas operacionais, interface, gerenciamento de processos e arquivos.  
+- **Cisco – Networking Basics (05/2025)**: Fundamentos de redes, topologias, protocolos e configuração básica de dispositivos.  
+- **Cisco – Introduction to Cybersecurity (10/2024)**: Riscos digitais, políticas de segurança e boas práticas.  
+- **Cisco – Introduction to IoT (03/2025)**: Conceitos de IoT, conectividade inteligente e impacto na infraestrutura de redes.  
+- **Cisco – Python Essentials I (03/2025)**: Sintaxe, loops, coleções, funções e automação com Python.  
+- **DIO – Santander Bootcamp Cibersegurança #2 (28h, 01/2025)**: Phishing com Kali Linux, OSINT, defesa ofensiva e engenharia social.  
+- **DIO – Caixa: IA Generativa com Microsoft Copilot (39h, 12/2024)**: Automação, criação de conteúdo e integração com IA.  
+- **Senac Lapa Tito – Automação Residencial com Assistente Virtual (05/2025)**: Instalação de dispositivos inteligentes (Alexa, IoT), noções básicas de elétrica e configuração de rede LAN.  
+
+### 🔹 Cursos e Certificações Gerais
+- **Inglês Intensivo (160h)** – E. E. Amaral Wagner  
+- **Work & Job Soft Skills** – Instituto SIM  
+- **Brigada de Incêndio** – ECOFIRE Treinamentos  
 
 ---
 
-## 🌍 **Conecte-se Comigo**  
-- **LinkedIn:** [Vitor Fernandes - Segurança Cibernética](https://www.linkedin.com/in/vifernandescybersec)  
-- **E-mail:** vifernandes.tech@gmail.com  
+## 🛠️ Habilidades Técnicas  
+
+- 🌐 **Redes & Cibersegurança**  
+  - Criação e implantação de redes LAN  
+  - Segmentação de rede, criação e configuração de domínios  
+  - Gerenciamento de usuários e grupos em domínios
+  - Protocolos de rede (TCP/IP, DNS, DHCP, HTTP, etc.)  
+  - Utilização de comandos básicos em CLI  
+  - Aplicação de boas práticas de segurança da informação  
+
+- 🔧 **Hardware & Suporte**  
+  - Montagem e manutenção de computadores  
+  - Diagnóstico e substituição de componentes  
+  - Formatação e reinstalação de sistemas  
+  - Instalação de drivers e softwares  
+  - Backup e restauração de dados  
+  - Recuperação de acesso com ferramentas como **Hiren’s Boot**  
+
+- 💻 **Sistemas Operacionais**  
+  - **Windows**: configuração, manutenção e suporte ao usuário  
+  - **Windows Server**: administração de usuários, permissões e políticas de segurança  
+  - **Linux**: conhecimentos básicos em terminal e administração inicial  
+
+- 🧠 **Soft Skills**  
+  - Comunicação empática e clara  
+  - Adaptabilidade em ambientes dinâmicos  
+  - Liderança prática e colaborativa  
+  - Resolução de problemas com pensamento analítico  
+  - Organização e foco em resultados  
 
 ---
 
+## 🧩 Projetos Notáveis  
+- **Automação Residencial com Dispositivos Inteligentes**: Instalação de dispositivos IoT, como tomadas e interruptores inteligentes com Wi-Fi, permitindo controle remoto e automação via aplicativos.  
+- **Automação de Cadastro de Produtos com Python**: Script para automatizar cadastro em sistemas web utilizando `pyautogui` e `pandas`.  
+- **Análise de Cancelamento de Clientes (Churn) com Python**: Análise exploratória de dados com `pandas` e `plotly` para identificar padrões de churn e propor soluções.  
+- **Previsão de Score de Crédito com Machine Learning em Python**: Modelo preditivo utilizando `scikit-learn`, comparando Random Forest e KNN.  
+- **Criando um Phishing com Kali Linux**: Criação e análise de phishing usando SET e Kali Linux (Projeto Santander Bootcamp).  
+- **Criando um Ransomware com Python**: Simulação de ransomware funcional com Python e Kali Linux (Projeto Santander Bootcamp).  
+- **Algoritmos**: Curso de Algoritmos - repositório documentando progresso e exercícios resolvidos.  
+- **Conexão Segura**: Software educacional com gamificação para ensinar cibersegurança a crianças e idosos (Senac São Paulo).  
+- **Conspiração Digital**: História interativa “A Ameaça de Nexus” (Bootcamp CAIXA - IA Generativa).  
+- **E-book Atendimento Seguro**: E-book sobre IA e cibersegurança (Bootcamp CAIXA - IA Generativa).  
+- **Código Humano**: Podcast sobre tecnologia e propósito (Bootcamp CAIXA - IA Generativa).  
+- **SmartFinance-AI**: Organizando finanças com planilhas inteligentes e IA (Bootcamp CAIXA - IA Generativa).  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vifernandescybersec) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+## 🌍 Conecte-se Comigo  
+🔗 [LinkedIn – Vitor Fernandes](https://linkedin.com/in/vifernandescybersec)  
+💻 [GitHub – Vifernandestech](https://github.com/Vifernandestech)  
+📩 E-mail: **vifernandes.tech@gmail.com**
