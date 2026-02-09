@@ -1,6 +1,6 @@
 # 👨‍💻 Vitor Fernandes da Silva
 
-**Técnico em Informática | Especialista em Infraestrutura de TI | Segurança Cibernética | Protocolos de Redes**
+**Técnico em Informática | Graduando em Segurança Cibernética | Infraestrutura de TI | Protocolos de Redes**
 
 📍 Santo André, SP - Brasil | 🎂 09/11/2000 (25 anos)  
 📧 [vifernandes.tech@gmail.com](mailto:vifernandes.tech@gmail.com) | 📱 +55 11 93211-6672
@@ -339,7 +339,7 @@ Criação de narrativa interativa com IA:
 🌐 Redes:        TCP/IP | DNS | DHCP | VLANs | Wireless | Cabeamento Estruturado
 💻 SO:           Windows | Windows Server | Linux | Debian | Kali
 🔐 Segurança:    Firewall | Active Directory | PSI | Criptografia | Pentest Básico
-🖥️ Hardware:      Diagnóstico | Manutenção | Troubleshooting | Impressoras
+🖥️ Hardware:     Diagnóstico | Manutenção | Troubleshooting | Impressoras
 🔧 Ferramentas:  Windows Server | SAMBA | pfSense | Active Directory | Hiren's Boot
 🐍 Programação:  Python | Batch | Bash | SQL Básico
 ☁️ Outras:       IoT | Automação | IA Generativa | Git/GitHub
@@ -352,36 +352,6 @@ Criação de narrativa interativa com IA:
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vifernandestech&theme=tokyonight&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vifernandestech&layout=compact&theme=tokyonight)
-
----
-
-## 🎓 Jornada de Aprendizado
-
-```
-🎯 2024
-├─ Out: Início CST - Segurança Cibernética (Senac)
-├─ 10: Cisco - Introduction to Cybersecurity
-├─ 12: Bootcamp CAIXA - IA Generativa (39h)
-└─ 12: DIO - Caixa Bootcamp finalizado
-
-📈 2025 (Em andamento)
-├─ 01: Santander Bootcamp Cibersegurança (28h)
-├─ 02: Início Técnico em Informática (Senac)
-├─ 02: Conclusão Técnico em Informática ✅
-├─ 03: Cisco - Python Essentials I
-├─ 03: Cisco - Introduction to IoT
-├─ 05: Cisco - Networking Basics
-├─ 05: Senac - Automação Residencial
-├─ 08: Cisco - Operating Systems Basics
-├─ 10: Início na M2G Tecnologia
-└─ 02/2026: Projeto SAMBA Concluído ✅
-
-🚀 2026 (Próximos objetivos)
-├─ [ ] Cisco CCNA (Próximo)
-├─ [ ] Certificação em Linux (CompTIA Linux+)
-├─ [ ] Certificação em Segurança (CEH - Ethical Hacker)
-└─ [ ] Contribuições Open Source
-```
 
 ---
 
@@ -407,7 +377,7 @@ Interessado em:
 
 Atualizado com:
 - ✅ Experiência M2G Tecnologia (Atual)
-- ✅ Todas as certificações Cisco (5)
+- ✅ Todas as certificações Cisco 
 - ✅ Bootcamps DIO completos
 - ✅ Projeto SAMBA em destaque
 - ✅ Habilidades técnicas expandidas
@@ -418,7 +388,7 @@ Atualizado com:
 ## 🙏 Agradecimentos
 
 - **SENAC** — Formação profissional de excelência
-- **Cisco Academy** — Certificações que agregam
+- **Cisco Academy** — Certificações que agregam conhecimento válido
 - **DIO & Comunidade de Tech** — Conhecimento compartilhado
 - **M2G Tecnologia** — Experiência real em infraestrutura
 - **Comunidade Linux & Cibersegurança** — Inspiração contínua
