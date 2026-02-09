@@ -347,14 +347,6 @@ Criação de narrativa interativa com IA:
 
 ---
 
-## 📊 GitHub Stats
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vifernandestech&theme=tokyonight&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vifernandestech&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Conecte-se Comigo
 
 Interessado em:
