@@ -332,11 +332,12 @@ Análise exploratória de dados:
 
 ## 🌐 Conecte-se Comigo
 
-Interessado em:
-- 💼 Oportunidades em **infraestrutura de TI** e **segurança**
-- 💬 Conversar sobre **Linux, Redes e Cibersecurity**
-- 🤝 Colaborações em **projetos open source**
-- 📝 Feedbacks e sugestões para evolução
+## 💼 Estou Buscando
+- 🎯 **Analista Infra/Sistemas Júnior** ou **Cloud/DevOps Júnior**
+- 📍 **SP/ABC** (híbrido/presencial)
+- 🤝 Projetos Open Source + Mentoria
+
+**Open DMs para:** Linux Admin, Cloud fundamentals, automação Python! 🚀
 
 **Vamos conversar!**
 
@@ -380,9 +381,9 @@ Santo André, SP - Brasil 🇧🇷
 
 ---
 
-## 📚 Roadmap 2026
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
+## 📚 Roadmap 2026 🚀
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
 [![SC-900](https://img.shields.io/badge/SC-900-purple)](https://learn.microsoft.com/certifications/security-cloud-fundamentals/)
-[![LPIC-1](https://img.shields.io/badge/LPIC-1-green)](https://www.lpi.org/our-certifications/lpic-1-overview/)
-[![CompTIA Security+](https://img.shields.io/badge/Security+-orange)](https://www.comptia.org/certifications/security)
-[![CCNA](https://img.shields.io/badge/CCNA-red)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/enterprise/ccna.html)
+[![LPIC-1](https://img.shields.io/badge/LPIC-1-green)](https://www.lpi.org/)
+[![Security+](https://img.shields.io/badge/Security%2B-orange)](https://www.comptia.org/)
+[![CCNA](https://img.shields.io/badge/CCNA-red)](https://www.cisco.com/c/en/us/training-events/training-certifications.html)
