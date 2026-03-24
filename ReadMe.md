@@ -299,32 +299,7 @@ Análise exploratória de dados:
 
 ---
 
-### 🎓 **Conexão Segura** 
-**Software Educacional - Gamificação em Cibersegurança**
-
-Plataforma para ensinar segurança:
-- Gamificação para crianças e idosos
-- Conceitos de cibersegurança aplicados
-- Inclusão digital
-
-**Foco:** Impacto social e educação
-
----
-
-### 📱 **Conspiração Digital - "A Ameaça de Nexus"**
-**História Interativa - Bootcamp CAIXA IA Generativa**
-
-Criação de narrativa interativa com IA:
-- Storytelling tecnológico
-- Integração com IA Generativa
-- Engajamento narrativo
-
----
-
-### 📚 Outros Projetos
-- **E-book Atendimento Seguro** - IA e Cibersegurança
-- **Código Humano** - Podcast sobre tecnologia e propósito
-- **SmartFinance-AI** - Finanças com IA e automação
+### 📚 Outros Projetos Relevantes
 - **Algoritmos** - Repositório com exercícios resolvidos
 - **Automação de Cadastro** - Python + pyautogui para sistemas web
 - **Previsão de Score de Crédito** - ML com Random Forest e KNN
