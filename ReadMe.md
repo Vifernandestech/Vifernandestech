@@ -1,6 +1,6 @@
 # 👨‍💻 Vitor Fernandes da Silva
 
-**Técnico em Informática | Graduando em Segurança Cibernética | Infraestrutura de TI | Protocolos de Redes**
+**Técnico em Informática | Graduando em Segurança Cibernética | Infraestrutura de TI | Protocolos de Redes | Cloud/DevOps Júnior | Admin Sistemas**
 
 📍 Santo André, SP - Brasil | 🎂 09/11/2000 (25 anos)  
 📧 [vifernandes.tech@gmail.com](mailto:vifernandes.tech@gmail.com) | 📱 +55 11 93211-6672
@@ -13,23 +13,33 @@
 
 ## 🎯 Sobre Mim
 
-Profissional em transição para TI com **mais de 5 anos de experiência em atendimento ao cliente** e **foco atual em infraestrutura, redes e segurança cibernética**.
+**Profissional de TI com foco em infraestrutura, redes, sistemas e cloud. Em transição de manutenção de hardware para ambientes mais desafiadores de administração de sistemas, automação e computação em nuvem. Infraestrutura de Sistemas/Cloud/DevOps Júnior.**
 
 Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções práticas. Atualmente:
 
-- 💼 **Técnico de Suporte de Informática** na **M2G Tecnologia** (Out/2025 - Atual)
-- 🎓 Cursando **Tecnólogo em Segurança Cibernética (CST)** - Senac São Paulo
+- 💼 **Estagiário de Manutenção em TI - Grupo Ágil** (manutenção avançada PCs/notebooks/impressoras)
+- 🎓 Graduando **Tecnólogo em Segurança Cibernética (CST)** - Centro Universitário Senac 
 - 🎓 Certificado em **Técnico em Informática** - Senac Santo André
-- 🔐 Foco em **Windows Server, Linux Administration, SAMBA, Redes Corporativas e Segurança**
+- 🔐 Foco em **Windows Server, Active Directory, Linux Administration, SAMBA, Redes Corporativas, Segurança, pfSense, Python automação**
+- 🚀 **Objetivo:** Analista Infra/Sistemas → Cloud/DevOps Jr → DevSecOps/SRE
+- 🛠️ **Labs:** VMs, projetos práticos, GitHub com infra real
 
-**Meu diferencial:** Documentação clara, projetos práticos e capacidade de transformar teoria em implementações reais.
+**Meu diferencial:** Documentação clara, projetos práticos e capacidade de transformar teoria em implementações reais. Apaixonado por **como sistemas se comunicam, infra é desenhada e processos são automatizados para eficiência/segurança**
 
 ---
 
 ## 💼 Experiência Profissional
 
+### Estagiário em Manutenção de TI — **Grupo Ágil**  
+**Mar/2026 – Atual** 🔴 **POSIÇÃO ATUAL**  
+- 🖥️ Manutenção PCs/notebooks/impressoras (diagnóstico, troca componentes, formatação)  
+- 🔄 Atualização SO/drivers/softwares + documentação técnica  
+- 📦 Preparação equipamentos locação (limpeza, testes, configuração padrão)  
+- ⚡ Reparos eletrônicos/placas (multímetro, supervisão técnica)  
+- 🎯 **SLAs** corporativos + outsourcing impressão/TI
+
 ### **Técnico de Suporte de Informática** — M2G Tecnologia
-**Out/2025 – Atual** 🔴 *POSIÇÃO ATUAL*
+**Out/2025 – Mar/2026**
 
 - 🖥️ **Suporte corporativo a computadores e notebooks:** Preventivo, corretivo e emergencial em infraestrutura
 - 🔐 **Windows Server & Active Directory:** Administração de usuários, permissões, políticas de segurança
@@ -56,14 +66,12 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 
 ---
 
-### **Vendedor E-commerce Jr** — Ótica Santo Grau
-**Fev/2023 – Set/2023**
-
-- 💬 Atendimento técnico e vendas via plataformas e-commerce
-- 📊 Destaque como **"Vendedor Revelação do Ano" (2023)** 🏆
-- 👥 Comunicação empática e resolução de problemas
-
-**Skills:** Customer Service, Technical Support, E-commerce
+## 🛠️ Stack Técnico Atual
+| Infra/Sistemas | Redes/Segurança | Automação/Cloud | Hardware/Suporte |
+|---------------|----------------|----------------|-----------------|
+| Windows Server, Active Directory | LAN/WLAN, VLANs, pfSense | Python (PyAutoGUI, scikit-learn), n8n | PCs, Notebooks, Impressoras |
+| Linux (Debian/Ubuntu/Kali) | TCP/IP, DNS, DHCP | AWS/Azure (fundamentos) | Hiren's Boot, Diagnóstico |
+| SAMBA Server | Wireless Security | GitHub Actions (intro) | Crimpagem RJ45, Patch Panels |
 
 ---
 
@@ -81,7 +89,7 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 ### **Técnico em Informática** — Senac Santo André
 **Fev/2025 – Concluído** ✅
 
-- 🖥️ Manutenção e montagem de computadores
+- 🖥️ Manutenção (Preventiva, corretiva e emergencial) e montagem de computadores
 - 🌐 Redes LAN, cabeamento estruturado
 - 🏠 Automação residencial com IoT
 
@@ -365,15 +373,13 @@ Interessado em:
 
 ## 📝 Última Atualização
 
-**Fevereiro 2026** | **Profile Versão 3.0** ✨
+**Março de 2026** | **Profile Versão 4.0** ✨
 
 Atualizado com:
-- ✅ Experiência M2G Tecnologia (Atual)
-- ✅ Todas as certificações Cisco 
-- ✅ Bootcamps DIO completos
-- ✅ Projeto SAMBA em destaque
+- ✅ Experiência Grupo Ágil (Atual)
+- ✅ Stack Técnica atualizada 
+- ✅ Foco em Infraestrutura/DevOps Jr.
 - ✅ Habilidades técnicas expandidas
-- ✅ Conceitos de Pentest e Kali Linux
 
 ---
 
@@ -396,3 +402,12 @@ Técnico em Informática | Especialista em Infraestrutura & Segurança
 Santo André, SP - Brasil 🇧🇷
 
 *"Transformando conhecimento em soluções práticas."*
+
+---
+
+## 📚 Roadmap 2026
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
+[![SC-900](https://img.shields.io/badge/SC-900-purple)](https://learn.microsoft.com/certifications/security-cloud-fundamentals/)
+[![LPIC-1](https://img.shields.io/badge/LPIC-1-green)](https://www.lpi.org/our-certifications/lpic-1-overview/)
+[![CompTIA Security+](https://img.shields.io/badge/Security+-orange)](https://www.comptia.org/certifications/security)
+[![CCNA](https://img.shields.io/badge/CCNA-red)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/enterprise/ccna.html)
