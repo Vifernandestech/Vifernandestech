@@ -38,6 +38,8 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 - ⚡ Reparos eletrônicos/placas (multímetro, supervisão técnica)  
 - 🎯 **SLAs** corporativos + outsourcing impressão/TI
 
+---
+
 ### **Técnico de Suporte de Informática** — M2G Tecnologia
 **Out/2025 – Mar/2026**
 
@@ -52,6 +54,8 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 - 🖨️ **Impressoras:** Manutenção de impressoras profissionais laser e jato de tinta (Samsung, Brother, Epson)
 
 **Skills:** Windows Server, Active Directory, Cabeamento Estruturado, VLANs, Wireless, Backup & Recovery
+
+---
 
 ### **Assistente de TI (Freelancer)** — Teleu Tech
 **Mar/2025 – Out/2025**
@@ -81,6 +85,8 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 - 📚 Foco: Infraestrutura de TI, Protocolos de Redes, Sistemas Operacionais, Segurança Cibernética
 - 🔐 Linux, Windows Server, Banco de Dados, Segurança da Informação
 - 🔒 Criptografia, Análise de Vulnerabilidades, Defesa Cibernética
+
+---
 
 ### **Técnico em Informática** — Senac Santo André
 **Fev/2025 – Concluído** ✅
@@ -253,6 +259,8 @@ Servidor SAMBA profissional com:
 
 📖 [Leia a documentação completa →](https://github.com/vifernandestech/projeto-samba)
 
+---
+
 ### 🔒 **Phishing com Kali Linux**
 **Projeto Santander Bootcamp - Defesa Cibernética**
 
@@ -263,6 +271,8 @@ Criação e análise de phishing usando:
 - Análise de vulnerabilidades
 
 **Foco:** Entender ataques para se defender
+
+---
 
 ### 🦠 **Ransomware Funcional com Python**
 **Projeto Santander Bootcamp - Segurança Ofensiva**
@@ -275,6 +285,8 @@ Simulação educacional de ransomware usando:
 
 **Foco:** Compreender mecanismos de ataque
 
+---
+
 ### 🤖 **Automação Residencial com IoT**
 **Dispositivos Inteligentes com Alexa**
 
@@ -285,6 +297,8 @@ Instalação e configuração de:
 - Notificações em tempo real
 
 **Tech Stack:** IoT, Wi-Fi, Alexa, Automação
+
+---
 
 ### 📊 **Análise de Churn com Python**
 **Data Science & Machine Learning**
