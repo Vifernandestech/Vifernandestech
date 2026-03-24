@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vifernandestech&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vifernandestech&layout=compact&theme=radical"/>
+</div>
+
 # 👨‍💻 Vitor Fernandes
 
 **Técnico em Informática | Graduando em Segurança Cibernética | Infraestrutura de TI | Protocolos de Redes | Cloud/DevOps Júnior | Admin Sistemas**
