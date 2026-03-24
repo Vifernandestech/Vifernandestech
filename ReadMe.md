@@ -99,6 +99,17 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 
 ## 🏆 Certificações & Cursos Profissionais
 
+### 🛡️ **SENAI - AWS Cloud Practitioner Foundational** ⭐ **NOVO DESTAQUE**
+**Escola SENAI Armando de Arruda Pereira** | **Mar/2026** 
+
+**Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundational (40h)**  
+✅ **Cloud Practitioner Foundational Level**  
+🔹 EC2, S3, VPC, IAM, Lambda basics  
+🔹 Deploy serviços AWS hands-on  
+🔹 Preparação AWS Certified Cloud Practitioner  
+
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
+
 ### 🎖️ Cisco Networking Academy
 
 | Certificação | Data | Competências Chave |
@@ -114,17 +125,6 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 | **Introduction to Cybersecurity** | Out/2024 | Tipos de ataques, proteção de dados, privacidade e defesa corporativa. |
 | **Computer Hardware Basics** | Out/2024 | Montagem, manutenção e upgrade de computadores e laptops. |
 
-### 🛡️ **SENAI - AWS Cloud Practitioner Foundational** ⭐ **NOVO DESTAQUE**
-**Escola SENAI Armando de Arruda Pereira** | **Mar/2026** 
-
-**Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundational (40h)**  
-✅ **Cloud Practitioner Foundational Level**  
-🔹 EC2, S3, VPC, IAM, Lambda basics  
-🔹 Deploy serviços AWS hands-on  
-🔹 Preparação AWS Certified Cloud Practitioner  
-
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
-
 ### 🎓 Senac - Formação Técnica & Especializações
 
 | Curso / Qualificação | Carga | Data | Foco |
@@ -137,7 +137,7 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 
 | Certificação | Data | Foco |
 | :--- | :---: | :--- |
-| **FCF in Cybersecurity** | Out/2024 | Certificação completa: Cenário de ameaças e fundamentos de defesa. |
+| **FCF in Cybersecurity** | Out/2024 | Certificação completa: Cenário de ameaças e fundamentos de defesa utilizando de soluções Fortinet. |
 | **Introduction to the Threat Landscape 2.0** | Out/2024 | Atores de ameaças, malwares, engenharia social e vetores de ataque. |
 | **Getting Started in Cybersecurity 2.0** | Out/2024 | Conceitos essenciais de segurança de redes e endpoints. |
 
