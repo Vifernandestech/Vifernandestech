@@ -101,6 +101,7 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 
 | Certificação | Data | Competências Chave |
 | :--- | :---: | :--- |
+| **Linux Unhatched** ⭐ **NOVO** | Fev/2026 | Linux CLI, navegação diretórios, arquivos/scripts, usuários/permissões, Bash. |
 | **Cyber Threat Management** | Nov/2025 | Governança, avaliação de vulnerabilidades, gestão de risco e resposta a incidentes. |
 | **Networking Devices & Initial Configuration** | Nov/2025 | Cisco IOS, switching, cálculo de sub-rede IPv4, ARP, camadas de transporte. |
 | **Introduction to Data Science** | Ago/2025 | Análise de dados, Conceitos de Machine Learning, engenharia de dados e tomada de decisão. |
@@ -110,6 +111,16 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 | **Python Essentials 1** | Fev/2025 | Lógica de programação, sintaxe Python 3, tipos de dados e funções. |
 | **Introduction to Cybersecurity** | Out/2024 | Tipos de ataques, proteção de dados, privacidade e defesa corporativa. |
 | **Computer Hardware Basics** | Out/2024 | Montagem, manutenção e upgrade de computadores e laptops. |
+
+### 🛡️ **SENAI - AWS Cloud Practitioner Foundational** ⭐ **NOVO DESTAQUE**
+**Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundational (40h)**  
+**Escola SENAI Armando de Arruda Pereira** | **Mar/2026**  
+✅ **Cloud Practitioner Foundational Level**  
+🔹 EC2, S3, VPC, IAM, Lambda basics  
+🔹 Deploy serviços AWS hands-on  
+🔹 Preparação AWS Certified Cloud Practitioner  
+
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
 
 ### 🛡️ Fortinet Certified Fundamentals (FCF)
 
@@ -123,8 +134,8 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 
 | Curso / Qualificação | Carga | Data | Foco |
 | :--- | :---: | :---: | :--- |
-| **Automação Residencial c/ Assistente Virtual** | 36h | Ago/2025 | Projetos IoT, Alexa/Google Home e redes domésticas. |
 | **Assistente de Suporte e Manutenção de Computadores** | Técnica | Jul/2025 | Diagnóstico avançado, reparo de hardware e suporte. |
+| **Automação Residencial c/ Assistente Virtual** | 36h | Ago/2025 | Projetos IoT, Alexa/Google Home e redes domésticas. |
 | **Inteligência Artificial: Conceitos e Práticas** | 20h | Fev/2025 | Ferramentas de IA generativa e ética profissional. |
 
 ### 🚀 Bootcamps & Cursos Livres
