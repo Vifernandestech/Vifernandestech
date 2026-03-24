@@ -122,14 +122,6 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)](https://aws.amazon.com/certification/)
 
-### 🛡️ Fortinet Certified Fundamentals (FCF)
-
-| Certificação | Data | Foco |
-| :--- | :---: | :--- |
-| **FCF in Cybersecurity** | Out/2024 | Certificação completa: Cenário de ameaças e fundamentos de defesa. |
-| **Introduction to the Threat Landscape 2.0** | Out/2024 | Atores de ameaças, malwares, engenharia social e vetores de ataque. |
-| **Getting Started in Cybersecurity 2.0** | Out/2024 | Conceitos essenciais de segurança de redes e endpoints. |
-
 ### 🎓 Senac - Formação Técnica & Especializações
 
 | Curso / Qualificação | Carga | Data | Foco |
@@ -137,6 +129,14 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 | **Assistente de Suporte e Manutenção de Computadores** | Técnica | Jul/2025 | Diagnóstico avançado, reparo de hardware e suporte. |
 | **Automação Residencial c/ Assistente Virtual** | 36h | Ago/2025 | Projetos IoT, Alexa/Google Home e redes domésticas. |
 | **Inteligência Artificial: Conceitos e Práticas** | 20h | Fev/2025 | Ferramentas de IA generativa e ética profissional. |
+
+### 🛡️ Fortinet Certified Fundamentals (FCF)
+
+| Certificação | Data | Foco |
+| :--- | :---: | :--- |
+| **FCF in Cybersecurity** | Out/2024 | Certificação completa: Cenário de ameaças e fundamentos de defesa. |
+| **Introduction to the Threat Landscape 2.0** | Out/2024 | Atores de ameaças, malwares, engenharia social e vetores de ataque. |
+| **Getting Started in Cybersecurity 2.0** | Out/2024 | Conceitos essenciais de segurança de redes e endpoints. |
 
 ### 🚀 Bootcamps & Cursos Livres
 
