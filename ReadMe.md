@@ -66,6 +66,9 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 - Responsável pela organização de materiais, ferramentas, instrumentos e documentos do local de trabalho.
 - Destaque na proatividade para resolução de problemas, colaboração no trabalho em equipe e cordialidade no trato interpessoal.
 
+**Skills:** Hardware, Software, Docência em Sala de aula, Redes de Computadores, Comunicação, Sistemas Operacionais
+
+---
 
 ## 🛠️ Stack Técnico Atual
 | Infra/Sistemas | Redes/Segurança | Automação/Cloud | Hardware/Suporte |
