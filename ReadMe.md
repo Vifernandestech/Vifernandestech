@@ -3,7 +3,7 @@
 **Técnico em Informática | Graduando em Segurança Cibernética | Infraestrutura de TI | Protocolos de Redes | Cloud/DevOps Júnior | Admin Sistemas**
 
 📍 Santo André, SP - Brasil | 🎂 09/11/2000 (25 anos)  
-📧 [vifernandes.tech@gmail.com](mailto:vifernandes.tech@gmail.com) | 📱 +55 11 93211-6672
+📧 [vifernandes.tech@gmail.com](mailto:vifernandes.tech@gmail.com) | 📱 +55 11 93211-6672 | 11 91330-3928
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vifernandescybersec)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vifernandestech)
@@ -17,7 +17,7 @@
 
 Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções práticas. Atualmente:
 
-- 💼 **Estagiário de Manutenção em TI - Grupo Ágil** (manutenção avançada PCs/notebooks/impressoras)
+- 💼 **Open to Work** (Estágio em TI/Infra/Cloud/Security)
 - 🎓 Graduando **Tecnólogo em Segurança Cibernética (CST)** - Centro Universitário Senac 
 - 🎓 Certificado em **Técnico em Informática** - Senac Santo André
 - 🔐 Foco em **Windows Server, Active Directory, Linux Administration, SAMBA, Redes Corporativas, Segurança, pfSense, Python automação**
@@ -29,16 +29,6 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 ---
 
 ## 💼 Experiência Profissional
-
-### Estagiário em Manutenção de TI — **Grupo Ágil**  
-**Mar/2026 – Atual** 🔴 **POSIÇÃO ATUAL**  
-- 🖥️ Manutenção PCs/notebooks/impressoras (diagnóstico, troca componentes, formatação)  
-- 🔄 Atualização SO/drivers/softwares + documentação técnica  
-- 📦 Preparação equipamentos locação (limpeza, testes, configuração padrão)  
-- ⚡ Reparos eletrônicos/placas (multímetro, supervisão técnica)  
-- 🎯 **SLAs** corporativos + outsourcing impressão/TI
-
----
 
 ### **Técnico de Suporte de Informática** — M2G Tecnologia
 **Out/2025 – Mar/2026**
