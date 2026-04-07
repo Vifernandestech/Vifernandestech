@@ -31,7 +31,7 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 ## 💼 Experiência Profissional
 
 ### **Técnico de Suporte de Informática** — M2G Tecnologia
-**Out/2025 – Mar/2026**
+**Ago/2025 – Mar/2026**
 
 - 🖥️ **Suporte corporativo a computadores e notebooks:** Preventivo, corretivo e emergencial em infraestrutura
 - 🔐 **Windows Server & Active Directory:** Administração de usuários, permissões, políticas de segurança
@@ -48,7 +48,7 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 ---
 
 ### **Assistente de TI (Freelancer)** — Teleu Tech
-**Mar/2025 – Out/2025**
+**Mar/2025 – Ago/2025**
 
 - 🖥️ Manutenção, montagem e formatação de computadores, além da atualização de drivers para garantir dispositivos seguros e com desempenho otimizado.
 - 🔄 Gerenciamento de perfis de acesso e permissões, contribuindo para a segurança da informação em ambientes híbridos.
@@ -57,6 +57,15 @@ Sou um **aprendiz contínuo** que transforma conhecimento teórico em soluções
 **Skills:** Hardware, Software, Backup, Performance Tuning, Gerenciamento de usuários
 
 ---
+
+### **Monitor Voluntário de TI** - Senac Santo André (SP)
+**Set/2025 - Out/2025**
+
+- **Atuação voluntária na turma de Manutenção de Microcomputadores**, oferecendo suporte ao docente e aos alunos durante o desenvolvimento de atividades práticas.
+- Auxílio no processo de adaptações de acessibilidade e aplicação prática de conhecimentos técnicos, incluindo **montagem e manutenção de computadores, instalação de sistemas operacionais, configuração de redes locais, compartilhamento de pastas e gestão de recursos periféricos.**
+- Responsável pela organização de materiais, ferramentas, instrumentos e documentos do local de trabalho.
+- Destaque na proatividade para resolução de problemas, colaboração no trabalho em equipe e cordialidade no trato interpessoal.
+
 
 ## 🛠️ Stack Técnico Atual
 | Infra/Sistemas | Redes/Segurança | Automação/Cloud | Hardware/Suporte |
@@ -356,7 +365,7 @@ Análise exploratória de dados:
 **Março de 2026** | **Profile Versão 4.0** ✨
 
 Atualizado com:
-- ✅ Experiência Grupo Ágil (Atual)
+- ✅ Open to Work (Em busca de oportunidades)
 - ✅ Stack Técnica atualizada 
 - ✅ Foco em Infraestrutura/DevOps Jr.
 - ✅ Habilidades técnicas expandidas
