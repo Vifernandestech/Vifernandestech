@@ -1,6 +1,6 @@
 # 👨‍💻 Vitor Fernandes
 
-**Bacharelado em Sistemas de Informação | Tecnólogo em Segurança Cibernética (Cybersecurity) | Infraestrutura de TI | Protocolos de Redes | Cloud Computing**
+**Bacharelado em Sistemas de Informação | Tecnólogo em Segurança Cibernética (Cybersecurity) | Infraestrutura de TI | Protocolos de Redes | Cloud Computing | Sistemas Operacionais**
 
 📍 Santo André, SP - Brasil | 🎂 09/11/2000 (25 anos)  
 📧 [vifernandes.tech@gmail.com](mailto:vifernandes.tech@gmail.com) | 📱 +55 11 93211-6672 | 11 91330-3928
